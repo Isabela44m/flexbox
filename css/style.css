@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    color: aliceblue;
+    background-color: black;
+}
+#itens {
+    display: flex;
+    gap: 20px;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    background-color: rgb rgb(118, 168, 255);
+}
+#sobre {
+    padding: 20px;
+    margin: 20px;
+    background-color: rgb(29, 28, 36);
+    display: flex;
+    justify-content: space-between;
+    gap:100px;
+    border-radius: 12px;
+}
+#tordo {
+    width: 400px;
+    height: auto;
+}
