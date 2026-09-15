@@ -21,7 +21,7 @@ header {
     display: flex;
     justify-content: space-between;
     padding: 40px;
-   
+
 }
 #itens {
     display: flex;
@@ -73,7 +73,7 @@ header {
 
 }
 .personagens-cards {
-    width: 400px;
+    width: 300px;
     height: auto;
     border-radius: 12px;
     background-color: rgb(28, 28, 43);
